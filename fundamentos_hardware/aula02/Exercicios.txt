@@ -1,6 +1,6 @@
 1. Diferencie Hardware e Software. Cite exemplos.
 
-2. O que são dispositivos de entrada e dispositivos de saída em um computador? Cite exemplos. 
+2.  O que são dispositivos de entrada e dispositivos de saída em um computador? Cite exemplos. 
 
 3. O que é um bit? Diferencie bit e byte.
 
